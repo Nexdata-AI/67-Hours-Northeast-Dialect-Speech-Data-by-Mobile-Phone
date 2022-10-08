@@ -1,8 +1,10 @@
 # 67-Hours-Northeast-Dialect-Speech-Data-by-Mobile-Phone
-https://www.datatang.ai/datasets/49
+
 
 ## Description
 It collects 312 speakers from northeast regione. All speakers are reading the texts in northeast dialect. The recording contents cover customer consultant and message text from nearly 30 fields. Sentences are manually transcribed and proofread by professional annotators, with high accuracy.
+
+For more details, please refer to the link: https://bit.ly/3fgMoAM
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
@@ -30,3 +32,6 @@ text
 
 ## Application scenarios
 speech recognition, voiceprint recognition
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
